@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  padding-top: 30px;
+}
+.list-group-item {
+  text-align: center;
+  font-weight: 600;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 0.2rem outset blue;
+  border-radius: 12px;
+  background: linear-gradient(#75c9f7, #fff);
+}
