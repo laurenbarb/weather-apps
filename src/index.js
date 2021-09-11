@@ -111,8 +111,6 @@ function handleSubmit(event) {
   search(cityInputElement.value);
 }
 
-let celsiusTemperature = null;
-
 search("Sydney");
 
 let form = document.querySelector("#search-form");
